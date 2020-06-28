@@ -2,7 +2,7 @@
 
 StudyWorm is a webapp that help those book worms be more efficient and diligent with their studies.
 
-<img src= "Screen%20Shot%202020-06-27%20at%2019.37.14.png">
+<img src= "Screen%20Shot%202020-06-28%20at%2013.51.51.png">
 
 # Technologies Used
 - CSS

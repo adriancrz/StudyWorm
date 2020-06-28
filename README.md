@@ -15,3 +15,6 @@ StudyWorm is a webapp that help those book worms be more efficient and diligent 
 - Jennifer Moundanos, lead designer
 - Bill Willaims, developer
 - Jose Mancha, developer
+
+# Live Demo
+https://adriancrz.github.io/StudyWorm/
